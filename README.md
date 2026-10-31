@@ -1,17 +1,11 @@
-# WCAG Audit 
+# WCAG Audit - Gemeenten Lelystad
 
-Doe een WCAG audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
+Voor deze opdracht heb ik de website getest op toegankelijkheid met een handmatige toetsenbordtest. Het navigeren met de Tab-toets werkt goed en met de Enter-toets openen de links de juiste pagina's. Dit is fijn voor bezoekers die de website zonder muis gebruiken.
 
-De instructies van deze opdracht staan in [WIKI](https://github.com/fdnd-task/wcag-audit/wiki).
+Een aandachtspunt is dat de zichtbare focus soms niet duidelijk genoeg is. Hierdoor is het niet altijd goed te zien welk onderdeel geselecteerd is. De resultaten van mijn test staan in mijn issues: 
 
-
-## Titel Website
-
-Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
-
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
-
-Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie.
+1. https://github.com/Queeny2003/all-human-accessible-website/issues/4#issue-5939856358
+2. https://github.com/Queeny2003/all-human-accessible-website/issues/5#issue-5946594960
 
 ## Licentie
 
