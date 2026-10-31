@@ -7,7 +7,7 @@ Een aandachtspunt is dat de zichtbare focus soms niet duidelijk genoeg is. Hierd
 1. https://github.com/Queeny2003/all-human-accessible-website/issues/4#issue-5939856358
 2. https://github.com/Queeny2003/all-human-accessible-website/issues/5#issue-5946594960
 
-In de wiki vind je alles uitgebreid uitgelegd.
+In de [WIKI](https://github.com/Queeny2003/wcag-audit.wiki.git) vind je alles uitgebreid uitgelegd.
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
